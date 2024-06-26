@@ -1,4 +1,5 @@
 import streamlit as st
+from app_pages
 from app_pages.multipage import MultiPage
 
 # load pages scripts
